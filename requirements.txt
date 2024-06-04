@@ -1,4 +1,4 @@
 replicate==0.25.1
 requests==2.31.0
 requests-oauthlib==1.4.0
-streamlit==1.33.1
+streamlit==1.31.1
