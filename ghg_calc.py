@@ -89,3 +89,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+st.sidebar.markdown("---")
+st.sidebar.markdown("Desenvolvido por [PedroFS](https://linktr.ee/Pedrofsf)")
